@@ -168,7 +168,7 @@ A negatív hatások kék, a pozitívak pedig piros színnel vannak jelölve.
 
 A teljes adatbázisból vettünk egy 3000 zenéből álló mintát véletlenszerűen, majd hangulatuk és energiájuk szerint ábrázoltuk őket. Hogy jól látható legyen, hol sűrűsödnek az adatok, egy kétdimenziós sűrűségdiagramot alkalmaztunk. A szintvonalas megjelenítésnek köszönhetően könnyebben olvasható az ábra. A világoszöld területek jelzik azokat a (hangulat, energia) párokat, amelyek a leggyakrabban fordulnak elő, míg a sötétedő, lilába hajló részek a ritkább eseteket jelzik. A megfelelő tengelyekkel párhuzamosan, a grafikon szélén a hangulat és az energia egyéni eloszlása is megjelenik.
 <br>
-
+![Összefüggés a zenék energiája és hangulata között](energyvibe.png)
 <br>
 Alapvetően ritkák a kis energiával rendelkező dalok, ezt magyarázhatja, hogy az emberek ingerküszöbe már magasan van, nem köti le a figyelmet egy kevésbé energikus dal, így kevesebb ilyen dal készül. A leggyakoribb kombinációkban a dal energia szintje magas (0.6 - 0,9) viszont a hangulata szélesebb skálán mozog. Ez visszatükrözi az egyéni eloszlásokat is. 
 
