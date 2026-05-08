@@ -208,7 +208,7 @@ A künlönböző zenei műfajok hangulatnak összehasonlításához ridge plot-o
 
 ## Konklúzió
 
-A több mint 30 000 Spotify dal elemzése után azt tapasztaltuk, hogy bár egy zene sikerességét nehéz előre megjósolni, vagy jó receptet készíteni egy slágerhez (ezt a regressziós modellünk 6,3%-os magyarázó ereje is mutatja), a népszerűséget egyértelműen befolyásolják bizonyos zenei tulajdonságok.
+A több mint 30 000 Spotify dal elemzése után azt tapasztaltuk, hogy bár egy zene sikerességét nehéz előre megjósolni, vagy jó receptet készíteni egy slágerhez (ezt a regressziós modellünk 6,3%-os magyarázó ereje is mutatja), de a népszerűséget egyértelműen befolyásolják bizonyos zenei tulajdonságok.
 
 A regressziós modellünk és az adatvizualizációink alapján az alábbiakat kell figyelembe vennünk, ha egy sikeres zenét akarunk készíteni:
 - Műfaj kiválasztása: A műfaj nagyon befolyásolja a népszerűséget, például a pop, a rock és a latin stílusok kiemelkedően népszerűek más műfajokhoz képest.
